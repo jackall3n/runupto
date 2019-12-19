@@ -4,7 +4,7 @@
   "scripts": {
     "docker:api": "yarn --cwd ./runupto-api start:docker",
     "start:webhook": "yarn --cwd ./runupto-webhook start:docker",
-    "prod:webhook": "yarn --cwd ./runupto-webhook start:docker -f docker-compose.prod.yml",
+    "prod:webhook": "yarn --cwd ./runupto-webhook prod:docker -f docker-compose.prod.yml",
     "docker:redis": "yarn --cwd ./runupto-redis start:docker",
     "docker:mongo": "yarn --cwd ./runupto-mongo start:docker"
   }
