@@ -3,6 +3,7 @@
   "license": "MIT",
   "scripts": {
     "docker:api": "yarn --cwd ./runupto-api start:docker",
+    "docker:webhook": "yarn --cwd ./runupto-webhook start:docker",
     "docker:redis": "yarn --cwd ./runupto-redis start:docker",
     "docker:mongo": "yarn --cwd ./runupto-mongo start:docker"
   }
