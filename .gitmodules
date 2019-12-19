@@ -1,0 +1,15 @@
+[submodule "runupto-api"]
+	path = runupto-api
+	url = https://github.com/jackall3n/runupto-api
+[submodule "runupto-webhook"]
+	path = runupto-webhook
+	url = https://github.com/jackall3n/runupto-webhook
+[submodule "runupto-redis"]
+	path = runupto-redis
+	url = https://github.com/jackall3n/runupto-redis
+[submodule "runupto-mongo"]
+	path = runupto-mongo
+	url = https://github.com/jackall3n/runupto-mongo
+[submodule "runupto-client"]
+	path = runupto-client
+	url = https://github.com/jackall3n/runupto-client
