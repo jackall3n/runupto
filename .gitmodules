@@ -13,3 +13,6 @@
 [submodule "runupto-client"]
 	path = runupto-client
 	url = https://github.com/jackall3n/runupto-client
+[submodule "runupto-queue"]
+	path = runupto-queue
+	url = https://github.com/jackall3n/runupto-queue
