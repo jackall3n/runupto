@@ -16,6 +16,6 @@
 [submodule "runupto-queue"]
 	path = runupto-queue
 	url = https://github.com/jackall3n/runupto-queue
-[submodule "runupto-auth"]
-	path = runupto-auth
-	url = https://github.com/jackall3n/runupto-auth
+[submodule "runupto-strava"]
+	path = runupto-strava
+	url = https://github.com/jackall3n/runupto-strava
