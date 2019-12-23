@@ -19,3 +19,6 @@
 [submodule "runupto-auth"]
 	path = runupto-auth
 	url = https://github.com/jackall3n/runupto-auth
+[submodule "runupto-shared"]
+	path = runupto-shared
+	url = https://github.com/jackall3n/runupto-shared
