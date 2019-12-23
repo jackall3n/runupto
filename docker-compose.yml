@@ -27,3 +27,8 @@ networks:
   default:
     external:
       name: nginx-proxy
+
+volumes:
+  vhosts:
+  certs:
+  html:
