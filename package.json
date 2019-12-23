@@ -2,6 +2,7 @@
   "name": "runupto",
   "license": "MIT",
   "scripts": {
+    "docker:proxy": "docker-compose up",
     "docker:api": "yarn --cwd ./runupto-api start:docker",
     "docker:webhook": "yarn --cwd ./runupto-webhook start:docker",
     "docker:auth": "yarn --cwd ./runupto-auth start:docker",
