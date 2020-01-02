@@ -22,3 +22,6 @@
 [submodule "runupto-shared"]
 	path = runupto-shared
 	url = https://github.com/jackall3n/runupto-shared
+[submodule "runupto-admin"]
+	path = runupto-admin
+	url = https://github.com/jackall3n/runupto-admin.git
