@@ -8,6 +8,7 @@
     "docker:auth": "yarn --cwd ./runupto-auth start:docker",
     "docker:redis": "yarn --cwd ./runupto-redis start:docker",
     "docker:mongo": "yarn --cwd ./runupto-mongo start:docker",
+    "docker:admin": "yarn --cwd ./runupto-admin start:docker",
     "docker:queue": "yarn --cwd ./runupto-queue start:docker"
   }
 }
