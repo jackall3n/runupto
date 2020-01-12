@@ -10,5 +10,12 @@
     "docker:mongo": "yarn --cwd ./runupto-mongo start:docker",
     "docker:admin": "yarn --cwd ./runupto-admin start:docker",
     "docker:queue": "yarn --cwd ./runupto-queue start:docker"
+  },
+  "dependencies": {
+    "mongoose": "^5.8.3",
+    "query-string": "^6.9.0"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.5.37"
   }
 }
